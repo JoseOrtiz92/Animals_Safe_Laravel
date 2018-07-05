@@ -1,0 +1,24 @@
+.contenedor{
+	width: 100%;
+	background-color:#FFEBFA;
+}
+.tablon{
+	margin-left:6.5%;
+	margin-top:2%;
+	margin-bottom:1%;
+	height:400px;
+}
+.nombre{
+	margin-top:2%;
+}
+.descripcion{
+	margin-top:2%;
+	margin-left:2%;
+}
+.titulo{
+	margin-top:2%;
+}
+.imagen{
+	border-radius:50%;
+	height:250px;
+}

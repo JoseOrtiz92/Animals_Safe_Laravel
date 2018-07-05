@@ -1,0 +1,84 @@
+/*Clases Personalizadas */
+
+/*Pagina de Anuncios De animales perdidos*/
+/*body{
+  background: #e05282 url('../images/paw_pattern.png');
+}
+*/
+.contenedor{
+  width: 100%;
+  background-color:#FFEBFA;
+  
+}
+.Anuncios{
+  width: 100%;
+}
+.cuadroAnuncio{
+  height: 500px;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+.stretch {  
+    height:180px;
+    border-radius: 50%;
+}
+.contentNuevoAnuncio{
+  width: 100%;
+}
+
+.contentAnuncio{
+  width: 70%;
+  margin-left: 15%;
+}
+
+.telefonoForm{
+  width: 15%;
+  margin-left: 42.5%
+}
+
+.btnCerrar{
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.btnAñadir{  
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.titulo{
+  margin-top: 5%;
+  position: relative;
+}
+.tablon{
+  margin-left:6.5%;
+  margin-top:2%;
+  margin-bottom:1%;
+  height:500px;
+}
+.nombre{
+  margin-top:2%;
+}
+.descripcion{
+  margin-top:2%;
+  margin-left:2%;
+  width:100%;
+}
+.titulo{
+  margin-top:2%;
+}
+.imagen{
+  border-radius:50%;
+  height:250px;
+}
+.icono{
+  font-size:200%;
+  color:#e05282;
+}
+.cabecera{
+  margin-bottom:5%;
+}
+
+.rosa{
+  color:#e05282;
+}
+/*Fin */

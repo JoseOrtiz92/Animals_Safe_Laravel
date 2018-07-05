@@ -1,0 +1,38 @@
+img{
+	margin-bottom:5%;
+}
+.pertenece{
+	margin-top:5%;
+	color:#e05282;
+}
+.contenedor{
+	background-color:#FFEBFA;
+	padding:2%;
+}
+.anunciocontent label{
+	font-size:110%;
+	color:#e05282;
+}
+.reglas{
+	margin-top:2%;
+}
+.si{
+	margin-left:5%;
+	list-style-type: circle;
+}
+.no{
+	list-style-type: square;
+}
+.grande{
+	font-size:110%;
+}
+.anuncioContent{
+	text-align: left;
+}
+.formulario{
+	float:left;
+	text-align: left;
+	margin-top: 5%;	
+}
+.altura{
+}
